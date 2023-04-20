@@ -62,11 +62,11 @@ while True:
             decimal += int(digito) * (8 ** -potencia)
             potencia += 1
                 
-        print("The decimal equivalent of", octal, "is", decimal)
+        print("O octal", octal, "em decimal é", decimal)
     elif choice == '4':
-        print("Exiting program...")
+        print("Saindo...")
         break
     else:
-        print("Invalid choice. Please try again.")
+        print("Opcao Inválida.")
 
 
