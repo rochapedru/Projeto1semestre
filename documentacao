@@ -1,0 +1,37 @@
+Resumo
+Este programa consiste em um menu que permite a conversão de números binários, hexadecimais e octadecimais para números decimais. Ele foi desenvolvido em Python e utiliza funções específicas para cada tipo de conversão.
+
+Função octal_para_decimal(numero_octal)
+Esta função recebe um número octal como argumento e o converte para um número decimal. O número decimal é então retornado pela função.
+
+Argumentos
+numero_octal: um número octal a ser convertido para decimal.
+Retorno
+decimal: o número decimal equivalente ao número octal fornecido como argumento.
+Loop principal
+O loop principal do programa exibe um menu com várias opções e permite ao usuário escolher a conversão que deseja fazer. O loop continuará a ser executado até que o usuário escolha a opção de saída.
+
+Opções do menu
+Binário para Decimal
+Hexadecimal para Decimal
+Octadecimal para Decimal
+Componentes do Grupo
+Disciplinas Envolvidas
+Versão do aplicativo
+Curso
+Exit
+Documentação
+Escolha do usuário
+O usuário deve digitar o número da opção desejada. Se a opção for válida, o programa executará a conversão apropriada. Se a opção for inválida, o programa exibirá uma mensagem de erro.
+
+Conversão Binário para Decimal
+Para a conversão de um número binário para decimal, o programa recebe um número binário inteiro ou quebrado como entrada do usuário. O programa então converte o número para decimal e exibe o resultado na tela.
+
+Conversão Hexadecimal para Decimal
+Para a conversão de um número hexadecimal para decimal, o programa recebe um número hexadecimal inteiro ou quebrado como entrada do usuário. O programa então converte o número para decimal e exibe o resultado na tela.
+
+Conversão Octal para Decimal
+Para a conversão de um número octal para decimal, o programa recebe um número octal como entrada do usuário. O programa então converte o número para decimal usando a função octal_para_decimal e exibe o resultado na tela.
+
+Informações adicionais
+O programa também exibe informações sobre o grupo que o desenvolveu, as disciplinas envolvidas, a versão do aplicativo e o curso. Além disso, há uma opção de documentação que fornece um link para o Github onde esta documentação pode ser encontrada.
