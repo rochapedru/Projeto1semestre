@@ -6,9 +6,11 @@ Esta função recebe um número octal como argumento e o converte para um númer
 
 Argumentos
 numero_octal: um número octal a ser convertido para decimal.
+
 Retorno
 decimal: o número decimal equivalente ao número octal fornecido como argumento.
 Loop principal
+
 O loop principal do programa exibe um menu com várias opções e permite ao usuário escolher a conversão que deseja fazer. O loop continuará a ser executado até que o usuário escolha a opção de saída.
 
 Opções do menu
